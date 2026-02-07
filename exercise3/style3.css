@@ -37,7 +37,7 @@
 }
 
 a {
-    color: inherit;
+    color: white;
     text-decoration: none;
 }
 
@@ -53,13 +53,14 @@ a {
     background-color: white;
     color: black;
     display: none;
-    border: 1px solid #ccc;
+
 }
 
 .dropdown-content a {
     display: block;
     padding: 10px 15px;
     color: black;
+    text-align: left;
 }
 
 .dropdown-content a:hover {
