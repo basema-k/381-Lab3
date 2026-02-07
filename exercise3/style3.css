@@ -27,10 +27,10 @@ background-color: #333333;
 
 height: 25px;
 margin: 20px;
-padding-bottom: 10px;
 background-color: #333333;
 color: #ffffff;
 text-align: center;
+
 
 }
 .flex-item:hover{
@@ -45,7 +45,6 @@ a{
 }
 .dropdown{
     position: relative;
-    top: 100%;
     left: 0;
 
 
@@ -56,6 +55,7 @@ a{
   background-color: white;
   color: rgb(0, 0, 0);
   display: none;
+  margin-top: 5px;
   width: 150px;
 
 }
